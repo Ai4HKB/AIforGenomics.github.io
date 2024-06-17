@@ -1,2 +1,2 @@
 #### Personal Homepage
-#### https://AiforGenomics.github.io/
+#### https://AIforGenomics.github.io/
